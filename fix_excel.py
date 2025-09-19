@@ -108,3 +108,4 @@ if __name__ == "__main__":
         print(f"   • Professional formatting maintained")
     else:
         print("❌ Failed to fix Excel file")
+
